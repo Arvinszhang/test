@@ -31,9 +31,9 @@ test
 >> test <br> test
 >>> test <br> test
 
-![](http://www.baidu.com/img/bdlogo.gif)
+![](http://www.baidu.com/img/bdlogo.gif"baidu")
 <br>
 
-![](http://www.baidu.com/img/bdlogo.gif)
+![baidu](http://www.baidu.com/img/bdlogo.gif)
 
 ~~delate~~
