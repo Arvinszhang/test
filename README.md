@@ -12,8 +12,8 @@ big title
 * dot
   *dot
      *dot
-       *dot
- * dot
+       * [dot](https://github.com/Arvinszhang/test/blob/master/SG90%20Servo%20Motor%20Datasheet.pdf)
+ * [dot](https://components101.com/servo-motor-basics-pinout-datasheet) 
 * dot
   * dot
     * dot
