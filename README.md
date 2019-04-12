@@ -50,6 +50,7 @@ big title
 </tr>
 </table>  
   
+
   
 
   
@@ -66,7 +67,13 @@ table| table|table
 ---|---|---
 1|2|3
 
- 
+ <div style="vertical-align:top; width:600px;">
+<table width="50%" style="float:left;">
+<tr>
+<td>Table1</td>
+</tr>
+</table>
+<table width="50%">
  
  
 * dot
