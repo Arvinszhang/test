@@ -161,9 +161,9 @@ test
 table border 无变化
 
 
-<table border="10">
+<table border="1">
  <tr>
-  <td align="center" colspan="3">Contest</td>
+  <td align="center" colspan="3"><b>Contest</b></td>
  </tr>
   
  <tr>
