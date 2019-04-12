@@ -35,6 +35,24 @@ big title
  +-------+-------+
   
   
+<table width="100%" align="center">
+<tr>
+<td><table width="100%">
+<tr>
+<td> </td>
+</tr>
+</table></td>
+<td><table width="100%">
+<tr>
+<td> </td>
+</tr>
+</table></td>
+</tr>
+</table>  
+  
+  
+
+  
  text
  the content<br> 
  
