@@ -158,7 +158,14 @@ test
 
 ~~delate~~
 
-<table border="2">
+table border 无变化
+
+
+<table border="10">
+ <tr>
+  <td align="center" colspan="3">Contest</td>
+ </tr>
+  
  <tr>
   <td> palce </td>
   <td> place </td>
