@@ -157,3 +157,9 @@ test
 版权声明：本文为博主原创文章，转载请附上博文链接！
 
 ~~delate~~
+
+<table border="2">
+ <tr>
+  <td> palce </td>
+ </tr>
+ </table>
