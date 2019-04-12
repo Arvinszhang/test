@@ -161,5 +161,13 @@ test
 <table border="2">
  <tr>
   <td> palce </td>
+  <td> place </td>
+ </tr>
+ <tr>
+  <td> 1 </td>
+  <td> 23 </td>
+  <td> 234 </td>
+  
+  
  </tr>
  </table>
