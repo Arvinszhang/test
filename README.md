@@ -18,8 +18,38 @@ big title
   * dot
     * dot
       * dot
-     
+   
+   cellspacing="" 单元外框大小无变化 cellpadding="" 单元格留白无变化 table align="center"无用 table bgcolor="tan"无用 bordercolor="green" 无用
+   
+   
       
+<table bgcolor="tan" bordercolor="green" align="center" border="0" cellspacing="100" cellpadding="10">                                            
+ 
+ <th colspan="4"> header </th>
+
+ <tr bgcolor="red">
+  <td bgcolor="green"> palce </td>
+  <td> place </td>
+ <td> place </td>
+ <td> total</td>
+ </tr>
+ <tr align="center">
+  <td> 1 </td>
+  <td> 23 </td>
+  <td> 234 </td>
+ <td rowspan="2"> 516 </td>
+  
+ </tr>
+ <tr>
+ <td>1</td>
+ <td>23</td>
+ <td>234</td>
+ </tr>
+ </table>
+ 
+
+  
+  
   
  +-------+-------+    +-------+-----+
  |test   |test   |    |test   |test |
@@ -158,10 +188,12 @@ test
 
 ~~delate~~
 
-table border 无变化
+table border 边框宽度无变化
 
 
 <table border="1">
+ <th>header</th>
+ 
  <tr>
   <td align="center" colspan="3"><b>Contest</b></td>
  </tr>
