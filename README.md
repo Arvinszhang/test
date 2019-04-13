@@ -196,9 +196,9 @@ test
 版权声明：本文为博主原创文章，转载请附上博文链接！
 
 ~~delate~~
-
+```
 table border 边框宽度无变化
-
+```
 
 <table border="1">
  <th>header</th>
