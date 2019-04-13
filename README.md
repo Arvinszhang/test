@@ -21,6 +21,11 @@ big title
    
    cellspacing="" 单元外框大小无变化 cellpadding="" 单元格留白无变化 table align="center"无用 table bgcolor="tan"无用 bordercolor="green" 无用
    
+   td valign="top"
+   table
+   
+   这可以让单元格内的表格靠顶
+   
    
       
 <table bgcolor="tan" bordercolor="green" align="center" border="0" cellspacing="100" cellpadding="10">                                            
