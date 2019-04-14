@@ -228,3 +228,10 @@ table border 边框宽度无变化
  
  
  
+ graph TD
+ mouse_Event()-press->Servo Motor-true->Pen up
+ 
+ graph TD
+ mouse_Event()-press->Servo Motor
+ mouse_Event()-x move->x cooridinate
+ 
