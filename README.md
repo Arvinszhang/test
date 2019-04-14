@@ -1,3 +1,12 @@
+
+```sequence
+Title:连接建立的过程
+客户主机->服务器主机: 连接请求（SYN=1,seq=client_isn） 
+服务器主机->客户主机: 授予连接（SYN=1,seq=client_isn）\n ack=client_isn+1
+客户主机->服务器主机: 确认（SYN=0,seq=client_isn+1）\nack=server_isn+1
+```
+
+
 ```
 <script src="mermaid.full.min.js"></script>
 
@@ -26,7 +35,15 @@ cond(no)->sub1(left)->op1
 c2(yes)->io->e
 c2(no)->op2->e
 ```
-
+```mermaid
+graph TD
+client1-->|read / write|SVN((SVN server))
+client2-->|read only|SVN
+client3-->|read / write|SVN
+client4-->|read only|SVN
+client5(...)-->SVN
+SVN---|store the data|sharedrive
+```
 # test
 第一个库
 # 标题1
