@@ -238,7 +238,7 @@ table border 边框宽度无变化
  记得查甘特图画法
  ···
  
- 
+ ![](https://github.com/Jason2062/2D-Printer/blob/master/Images/YouTube%20icon.png)
  
  graph TD
  mouse_Event()-press->Servo Motor-true->Pen up
